@@ -1,4 +1,56 @@
 h1{
-font-size: 20px;
-font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
 }
+h2{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+ }
+h3{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+     }
+
+h4{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+     }
+h5{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+ }
+h6{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+ }
+
+             
+ /*.body2{
+    background: #353c45;
+    background: linear-gradient(90deg, rgba(53, 60, 69, 1) 100%, rgba(85, 189, 130, 1) 37%, rgba(87, 199, 133, 1) 40%, rgba(237, 221, 83, 1) 100%);
+ }*/
+ body{
+    background: #353c45;
+    background: linear-gradient(90deg, rgba(53, 60, 69, 1) 100%, rgba(85, 189, 130, 1) 37%, rgba(87, 199, 133, 1) 40%, rgba(237, 221, 83, 1) 100%);
+    color: white;
+}
+/*.fondoContacto{
+    background: #353c45;
+    background: linear-gradient(90deg, rgba(53, 60, 69, 1) 100%, rgba(85, 189, 130, 1) 37%, rgba(87, 199, 133, 1) 40%, rgba(237, 221, 83, 1) 100%);
+ }*/
+ .contacto{
+    display:contents;
+
+ }
+ .enzo{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+ }
