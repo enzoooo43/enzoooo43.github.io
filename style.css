@@ -54,3 +54,13 @@ h6{
     font-family: 'Times New Roman', Times, serif;
     color: white;
  }
+
+ .carousel{
+   background-color: white;
+   padding-top: 20px;
+   padding-bottom: 20px;
+
+ }
+ .carouselcarousel-control-prev-icon{
+   background-color: black;
+ }
